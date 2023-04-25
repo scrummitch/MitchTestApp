@@ -1,0 +1,22 @@
+modules:
+  confluence:spaceSettings:
+    - key: mitchtestapp-space-page-poop
+      function: poo
+      title: Poop
+      route: poop
+
+  function:
+    - key: poo
+      handler: index.poop
+app:
+  id: ari:cloud:ecosystem::app/cefc52f2-eb4d-4b8e-bf2c-eb8768e5f5a9
+
+permissions:
+  scopes:
+    - read:confluence-user
+    - read:confluence-content.summary
+    - read:confluence-space.summary
+    - storage:app
+    - read:confluence-props
+    - write:confluence-props
+    - readonly:content.attachment:confluence
