@@ -4,6 +4,13 @@ This project contains a Forge app written in Javascript that displays `Hello Wor
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
+
+Check out [OurEventAlbum](https://oureventalbum.com)
+
+and 
+
+[MetaKit](https://metakit.app)
+
 ## Requirements
 
 See [Set up Forge](https://developer.atlassian.com/platform/forge/set-up-forge/) for instructions to get set up.
